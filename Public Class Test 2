@@ -1,0 +1,16 @@
+Public Class Test 2
+
+Public static void main (String[] args)
+{
+boolean isHeads = false;
+if (isHeads)
+{
+System.out.println("Let's go to the game");
+}
+else
+{
+System.out.println("Lets watch a movie")
+}
+System.out.println("after conditional")
+  }
+ }
